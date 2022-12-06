@@ -14,3 +14,13 @@ To run the API, run a windows terminal :
 ```pip install pandas --user```
 
 ```pip install requires.io --user```
+
+then go to the python projet folder :
+
+```cd python projet```
+
+and run 
+
+```python "test.py"```
+
+copy the http: link and paste it on a web browser ! 
