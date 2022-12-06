@@ -1,6 +1,10 @@
 # Diabetes-130-US-hospitals-for-years-1999-2008
 Data analysis and prediction on hospital readmission
 
+To run the notebook correctly, you have to install pandas and other libraries and also this one :
+
+```!pip install imblearn```
+
 To run the API, run a windows terminal :
 
 ```pip install Flask --user```
