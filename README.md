@@ -2,6 +2,7 @@
 Data analysis and prediction on hospital readmission
 
 To run the API, run a windows terminal :
+
 ```pip install Flask --user```
 
 ```pip install matplotlib --user```
